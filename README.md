@@ -162,7 +162,7 @@ List of Interface Layers
 | [consul-agent](https://github.com/ChrisMacNaughton/juju-interface-consul.git) | consul-agent | Hashicorp Consul |
 | [consul](https://github.com/juju-solutions/interface-consul) | consul | Hashicorp Consul |
 | [cwr-ci](https://github.com/juju-solutions/interface-cwr-ci.git) | cwr-ci | Interface for relating to Cloud Weather Report (part of the Juju CI system) |
-| [dashboard-plugin](https://github.com/openstack-charmers/charm-interface-dashboard-plugin.git) | dashboard-plugin | This interface is for use with OpenStack Dashboard plugin subordinate charms |
+| [dashboard-plugin](https://github.com/openstack/charm-interface-dashboard-plugin.git) | dashboard-plugin | This interface is for use with OpenStack Dashboard plugin subordinate charms |
 | [db-info](https://github.com/omnivector-solutions/interface-db-info) | DB Info | Ease the process of application <-> application database creds transference. |
 | [db2](https://launchpad.net/~ibmcharmers/interface-ibm-db2/trunk) | db2 | This interface layer handles the communication between  IBM DB2 and Consumer charms. |
 | [dbname](https://github.com/omnivector-solutions/interface-dbname.git) | DB Name | Interface to coordinate database name between applications. |
@@ -173,7 +173,7 @@ List of Interface Layers
 | [docker-image-host](https://github.com/tengu-team/interface-docker-image-host) | docker-image-host | Interface to send image to docker host |
 | [docker-registry](https://github.com/juju-solutions/interface-docker-registry.git) | docker-registry | Interface layer for connecting to the Docker Registry charm |
 | [dockerhost](https://github.com/juju-solutions/interface-dockerhost) | dockerhost | Docker connection information for a unit |
-| [druid-config](https://gitlab.com/spiculedata/juju/druid-config-relation) | Druid Configuration | Configuration layer for Spicule's Druid charms. |
+| [druid-config](https://gitlab.com/spiculedata/juju/druid-config-relation.git) | Druid Configuration | Configuration layer for Spicule's Druid charms. |
 | [elastic-beats](https://github.com/juju-solutions/interface-elastic-beats) | elastic-beats | Interface for elastic beats |
 | [elasticsearch](http://github.com/juju-solutions/interface-elasticsearch ) | elasticsearch | Interface to connect with elasticsearch. |
 | [etcd-proxy](https://github.com/juju-solutions/interface-etcd-proxy) | etcd-proxy | Do you need etcd as a read/readwrite proxy to a cluster? use this interface. |
